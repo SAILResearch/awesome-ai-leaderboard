@@ -10,6 +10,7 @@
     <a href="https://arxiv.org/pdf/2407.04065">
         <img src="https://img.shields.io/badge/Arxiv-2407.04065-red" height="20"/>
     </a>
+| [ModelBenchmark](https://modelbenchmark.io) | Ranks 202 AI models with one composite score from 16 public benchmarks, and lists prices, context windows, and release dates for 2,406 models across 297 hosts. |
 </div>
 
 **Awesome AI Leaderboard** is a curated list of awesome AI leaderboards, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
