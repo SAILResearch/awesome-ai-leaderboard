@@ -594,6 +594,7 @@ Also, a leaderboard should be included if only:
 | [Olas Predict Benchmark](https://huggingface.co/spaces/valory/olas-prediction-leaderboard) | Olas Predict Benchmark is a benchmark to evaluate agents on historical and future event forecasting. |
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [OSWorld-MCP](https://osworld-mcp.github.io) | OSWorld-MCP is a benchmark to evaluate AI agents on real-world computer tasks using the Model Context Protocol (MCP). |
+| [Personal Agent Bench](https://personalagentbench.com/) | Personal Agent Bench takes consumer personal AI agents apart hands-on and scores them on real errands, reporting each result with a confidence interval and no composite score. |
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
