@@ -428,6 +428,7 @@ Also, a leaderboard should be included if only:
 | [Nexus Function Calling Leaderboard](https://huggingface.co/spaces/Nexusflow/Nexus_Function_Calling_Leaderboard) | Nexus Function Calling Leaderboard is a platform to evaluate code models on performing function calling and API usage.
 | [NL2SQL360](https://nl2sql360.github.io/#leaderboard) | NL2SQL360 is a comprehensive evaluation framework for comparing and optimizing NL2SQL methods across various application scenarios. |
 | [OpsEval](https://nl2sql360.github.io/#leaderboard) | OpsEval is a benchmark designed to assess the performance of LLMs in IT Operations (AIOps). |
+| [Paydirt](https://bountyoperator.com/benchmark) | Paydirt is a benchmark to evaluate LLMs on white-box security code review: finding the planted bug in a Solidity or TypeScript case, leaving its fixed twin alone, and catching an overclaimed bug report. |
 | [PECC](https://huggingface.co/spaces/PatrickHaller/pecc-leaderboard) | PECC is a benchmark that evaluates code generation by requiring models to comprehend and extract problem requirements from narrative-based descriptions to produce syntactically accurate solutions. |
 | [ProgramBench](https://programbench.com) | ProgramBench is a benchmark to evaluate LLMs on programming tasks. |
 | [PyBench](https://github.com/Mercury7353/PyBench?tab=readme-ov-file#-leaderboard) | PyBench is a benchmark evaluating LLM on real-world coding tasks including chart analysis, text analysis, image/ audio editing, complex math and software/website development. |
