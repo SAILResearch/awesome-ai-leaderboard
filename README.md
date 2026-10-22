@@ -780,6 +780,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [ATOM Relative Adoption Metric](https://atomproject.ai/relative-adoption-metric) | ATOM Relative Adoption Metric tracks and evaluates the relative adoption and usage of AI models. |
+| [Devtoolwatch Board](https://index.devtoolwatch.com/) | Devtoolwatch Board tracks 500+ AI developer tools and ranks them weekly by usage: new GitHub stars and npm/PyPI download growth, with a CSV and the source behind every number. |
 
 ## Company Ranking
 
