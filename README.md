@@ -535,6 +535,7 @@ Also, a leaderboard should be included if only:
 | [MMToM-QA](https://chuanyangjin.com/mmtom-qa-leaderboard) | MMToM-QA is a multimodal benchmark to evaluate machine Theory of Mind (ToM), the ability to understand people's minds. |
 | [MVBench](https://huggingface.co/spaces/OpenGVLab/MVBench_Leaderboard) | MVBench is a benchmark to evaluate the temporal understanding capabilities of video models in dynamic video tasks. |
 | [OpenVLM Video Leaderboard](https://huggingface.co/spaces/opencompass/openvlm_video_leaderboard) | OpenVLM Video Leaderboard is a platform showcasing the evaluation results of 30 different VLMs on video understanding benchmarks using the VLMEvalKit framework. |
+| [Sports Film Review Benchmark](https://mariusding.github.io/sports-video-coach/benchmark/) | Sports Film Review Benchmark evaluates coding agents and vision models on counting, timing and classifying events in synthetic sports videos, using generated ground truth, a blind baseline and separate code and frames-only tracks. |
 | [TempCompass](https://huggingface.co/spaces/lyx97/TempCompass) | TempCompass is a benchmark to evaluate Video LLMs' temporal perception using 410 videos and 7,540 task instructions across 11 temporal aspects and 4 task types. |
 | [VBench](https://vchitect.github.io/VBench-project) | VBench is a benchmark to evaluate video generation capabilities of video models. |
 | [VideoNIAH](https://videoniah.github.io/#leaderboard) | VideoNIAH is a benchmark to evaluate the fine-grained understanding and spatio-temporal modeling capabilities of video models. |
