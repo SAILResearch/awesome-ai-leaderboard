@@ -113,6 +113,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [AGI Meridian](https://auerin.com/) | What AI can do in coding, hacking, science, jobs and the US-China race. |
 | [AI Benchmarking Hub](https://epoch.ai/benchmarks) | AI Benchmarking Hub tracks and compares AI model performance in reasoning, coding, and knowledge tasks. |
 | [Arena](https://arena.ai/leaderboard) | Arena operates a chatbot arena where various foundation models compete based on user preferences across multiple categories: text generation, web development, computer vision, text-to-image synthesis, search capabilities, and coding assistance. |
 | [BenchGecko](https://benchgecko.ai) | BenchGecko is a comprehensive leaderboard that tracks thousands of models across 128 benchmarks, featuring cross-provider pricing comparisons, AI economy insights, an agent leaderboard, and an MCP server directory. |
