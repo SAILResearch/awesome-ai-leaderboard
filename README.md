@@ -77,6 +77,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Benchmark Radar](https://github.com/ktwu01/benchmark-radar) | A living database and search engine for AI benchmarks and evaluation, tracking 42,331+ records from 40 public sources with linked evidence and daily updates. |
 | [Demo Leaderboard Backend](https://huggingface.co/spaces/demo-leaderboard-backend/backend) | Demo leaderboard backend helps users manage the leaderboard and handle submission requests, check [this](https://huggingface.co/docs/leaderboards/leaderboards/building_page) for details. |
 | [Evaluation Results on the Hub](https://huggingface.co/docs/hub/en/eval-results) | Evaluation Results on the Hub enables model authors to store and display evaluation results in model cards by embedding structured metadata, making benchmark scores publicly accessible and comparable across models. |
 | [Kaggle Competition Creation](https://www.kaggle.com/competitions?new=true) | Kaggle Competition Creation enables you to design and launch custom competitions, leveraging your datasets to engage the data science community. |
