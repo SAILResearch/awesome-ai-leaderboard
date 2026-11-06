@@ -770,6 +770,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [Artificial Analysis](https://artificialanalysis.ai) | Artificial Analysis is a platform to help users make informed decisions on AI model selection and hosting providers. |
 | [ai-benchmarks](https://github.com/fixie-ai/ai-benchmarks?tab=readme-ov-file#leaderboard) | ai-benchmarks contains a handful of evaluation results for the response latency of popular AI services. |
+| [Bertrande](https://bertrande.com/en/compare/) | Bertrande compares what the same AI model costs from different sellers, from prices read daily on each vendor's own page or API. Every price carries its observation date and source, and the full price history is open data under CC BY 4.0. |
 | [InferenceX](https://inferencex.semianalysis.com/inference) | InferenceX benchmarks and compares LLM inference performance across models, frameworks, and hardware configurations. |
 | [Openrouter Leaderboard](https://openrouter.ai/rankings) | Openrouter Leaderboard offers a real-time comparison of language models based on normalized token usage for prompts and completions, updated frequently. |
 | [Provider Leaderboard](https://leaderboard.withmartian.com) | LLM API Providers Leaderboard is a platform to compare API provider performance for over LLM endpoints across performance key metrics. |
