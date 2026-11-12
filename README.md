@@ -579,6 +579,7 @@ Also, a leaderboard should be included if only:
 | [AgentBoard](https://hkust-nlp.github.io/agentboard/static/leaderboard.html) | AgentBoard is a benchmark for multi-turn LLM agents, complemented by an analytical evaluation board for detailed model assessment beyond final success rates. |
 | [Agents' Last Exam](https://agents-last-exam.org/leaderboard) | Agents' Last Exam is a benchmark for evaluating generalist AI agents on long-horizon, economically valuable professional workflows. |
 | [AgentStudio](https://skyworkai.github.io/agent-studio) | AgentStudio is an integrated solution featuring in-depth benchmark suites, realistic environments, and comprehensive toolkits. |
+| [airbench](https://airbench.ai/leaderboard) | airbench is a leaderboard to compare AI agents as people actually run them (model + harness, local or hosted), on pass-or-fail vision, code and computer-use challenges, with the quantization, GPU and harness recorded for each run. |
 | [AssistantBench](https://huggingface.co/spaces/AssistantBench/leaderboard) | AssistantBench aims to evaluate the ability of web agents to assist with real and time-consuming tasks. |
 | [BenchClaw](https://www.p2pclaw.com/app/benchmark) | BenchClaw is a benchmark to evaluate AI agents on autonomous scientific paper writing and peer review using a multi-judge evaluation process. |
 | [BrowseComp](https://www.kaggle.com/benchmarks/openai/browsecomp) | BrowseComp is a benchmark to evaluate the ability of AI agents to locate hard-to-find information. |
