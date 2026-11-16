@@ -422,6 +422,7 @@ Also, a leaderboard should be included if only:
 | [EvoEval](https://evo-eval.github.io/leaderboard.html) | EvoEval is a benchmark to evaluate the coding abilities of LLMs, created by evolving existing benchmarks into different targeted domains. |
 | [InfiBench](https://infi-coder.github.io/infibench) | InfiBench is a benchmark to evaluate code models on answering freeform real-world code-related questions. |
 | [InterCode](https://intercode-benchmark.github.io) | InterCode is a benchmark to standardize and evaluate interactive coding with execution feedback. |
+| [IonWarp AI Code Review Benchmarks](https://ionwarp.com/benchmarks) | IonWarp AI Code Review Benchmarks is a benchmark to evaluate LLMs and hosted code review apps on the same open-source pull requests with known issues, reporting F1, precision, recall, cost per review and median review time across nine review types. |
 | [Julia LLM Leaderboard](https://github.com/svilupp/Julia-LLM-Leaderboard?tab=readme-ov-file#results-preview) | Julia LLM Leaderboard is a platform to compare code models' abilities in generating syntactically correct Julia code, featuring structured tests and automated evaluations for easy and collaborative benchmarking. |
 | [LiveCodeBench](https://livecodebench.github.io/leaderboard.html) | LiveCodeBench is a benchmark to evaluate code models across code-related scenarios over time. |
 | [LiveCodeBench GSO](https://livecodebench.github.io/gso.html) | LiveCodeBench GSO is a benchmark to evaluate code models on generation, self-repair, and optimization tasks. |
