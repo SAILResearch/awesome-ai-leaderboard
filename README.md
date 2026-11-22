@@ -388,6 +388,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Accelerate Bench](https://acceleratebench.com/) | Accelerate Bench is a long-horizon coding agent benchmark in which agents have up to eight hours to make a scientific computing application faster while keeping its outputs correct. |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards) | Aider LLM Leaderboards evaluate LLM's ability to follow system prompts to edit code. |
 | [AndroidWorld](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | AndroidWorld is a comprehensive testing framework to evaluate the abilities of AI models, specifically autonomous agents, in controlling and interacting with a mobile device. |
 | [APEX AI Benchmarks](https://www.mercor.com/apex) | APEX AI Benchmarks is a benchmark suite for evaluating AI model performance on coding and software engineering tasks. |
