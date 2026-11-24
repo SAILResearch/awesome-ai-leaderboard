@@ -79,6 +79,7 @@ Also, a leaderboard should be included if only:
 | ---- | ----------- |
 | [agentstats](https://github.com/RishabhPande/agentstats) | agentstats analyzes repeated AI-agent benchmark runs with significance tests, run-count planning and leaderboard uncertainty audits; it does not execute agents. |
 | [Benchmark Radar](https://github.com/ktwu01/benchmark-radar) | A living database and search engine for AI benchmarks and evaluation, tracking 42,331+ records from 40 public sources with linked evidence and daily updates. |
+| [Benchmark Router](https://benchmarkrouter.newmeasure.ai) | Benchmark Router is a platform to run public AI benchmarks with their official code on hosted models or your own agent harness. |
 | [Demo Leaderboard Backend](https://huggingface.co/spaces/demo-leaderboard-backend/backend) | Demo leaderboard backend helps users manage the leaderboard and handle submission requests, check [this](https://huggingface.co/docs/leaderboards/leaderboards/building_page) for details. |
 | [Evaluation Results on the Hub](https://huggingface.co/docs/hub/en/eval-results) | Evaluation Results on the Hub enables model authors to store and display evaluation results in model cards by embedding structured metadata, making benchmark scores publicly accessible and comparable across models. |
 | [Kaggle Competition Creation](https://www.kaggle.com/competitions?new=true) | Kaggle Competition Creation enables you to design and launch custom competitions, leveraging your datasets to engage the data science community. |
@@ -388,6 +389,7 @@ Also, a leaderboard should be included if only:
 
 | Name | Description |
 | ---- | ----------- |
+| [Accelerate Bench](https://acceleratebench.com/) | Accelerate Bench is a long-horizon coding agent benchmark in which agents have up to eight hours to make a scientific computing application faster while keeping its outputs correct. |
 | [aicharts](https://aicharts.io) | aicharts plots coding scores from Artificial Analysis and Terminal-Bench against cost per task for OpenAI, Anthropic and Google models at every effort setting, marks the cost frontier, and compares Codex, Claude Code and Antigravity CLI on the Coding Agent Index. |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards) | Aider LLM Leaderboards evaluate LLM's ability to follow system prompts to edit code. |
 | [AndroidWorld](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | AndroidWorld is a comprehensive testing framework to evaluate the abilities of AI models, specifically autonomous agents, in controlling and interacting with a mobile device. |
@@ -609,6 +611,7 @@ Also, a leaderboard should be included if only:
 | [OSWorld](https://os-world.github.io) | OSWorld is a benchmark to evaluate multimodal AI agents on their ability to perform 369 realistic, open-ended tasks within a virtual computer environment across various applications and operating systems. |
 | [OSWorld-MCP](https://osworld-mcp.github.io) | OSWorld-MCP is a benchmark to evaluate AI agents on real-world computer tasks using the Model Context Protocol (MCP). |
 | [Personal Agent Bench](https://personalagentbench.com/) | Personal Agent Bench takes consumer personal AI agents apart hands-on and scores them on real errands, reporting each result with a confidence interval and no composite score. |
+| [PerspectiveGap](https://huggingface.co/spaces/sun1245/PerspectiveGap-Leaderboard) | PerspectiveGap is the first benchmark for multi-agent orchestration prompt writing. Its leaderboard ranks commercial LLMs on 110 scenarios across 10 loop topologies. [Paper](https://arxiv.org/abs/2606.08878). |
 | [SEC-bench](https://sec-bench.github.io) | SEC-bench is a benchmark of LLM agents on real-world software security tasks. |
 | [TravelPlanner](https://huggingface.co/spaces/osunlp/TravelPlannerLeaderboard) | TravelPlanner is a benchmark to evaluate LLM agents in tool use and complex planning within multiple constraints. |
 | [VAB](https://github.com/THUDM/VisualAgentBench?tab=readme-ov-file#leaderboard) | VisualAgentBench (VAB) is a benchmark to evaluate and develop LMMs as visual foundation agents, which comprises 5 distinct environments across 3 types of representative visual agent tasks. |
