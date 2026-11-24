@@ -390,6 +390,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [Accelerate Bench](https://acceleratebench.com/) | Accelerate Bench is a long-horizon coding agent benchmark in which agents have up to eight hours to make a scientific computing application faster while keeping its outputs correct. |
+| [aicharts](https://aicharts.io) | aicharts plots coding scores from Artificial Analysis and Terminal-Bench against cost per task for OpenAI, Anthropic and Google models at every effort setting, marks the cost frontier, and compares Codex, Claude Code and Antigravity CLI on the Coding Agent Index. |
 | [Aider LLM Leaderboards](https://aider.chat/docs/leaderboards) | Aider LLM Leaderboards evaluate LLM's ability to follow system prompts to edit code. |
 | [AndroidWorld](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | AndroidWorld is a comprehensive testing framework to evaluate the abilities of AI models, specifically autonomous agents, in controlling and interacting with a mobile device. |
 | [APEX AI Benchmarks](https://www.mercor.com/apex) | APEX AI Benchmarks is a benchmark suite for evaluating AI model performance on coding and software engineering tasks. |
