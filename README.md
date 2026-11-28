@@ -629,6 +629,7 @@ Also, a leaderboard should be included if only:
 | Name | Description |
 | ---- | ----------- |
 | [DeepResearch-Bench Leaderboard](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) | DeepResearch-Bench Leaderboard evaluates AI models on deep research tasks. |
+| [SciΠvot](https://autoresearch-factory.github.io/SciPIvot/#results) | SciΠvot is a benchmark to evaluate the principal-investigator judgment of LLMs at pivotal moments of scientific autoresearch. Its 248 questions come from senior researchers' corrections of LLM agents in 26 real research projects. The results table compares frontier models with newcomer researchers. [Paper](https://arxiv.org/abs/2610.21082). |
 
 ### Business
 
